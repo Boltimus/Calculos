@@ -1,7 +1,7 @@
 # Calculos :1234:
  Aplicação C# para efetuar diversos tipos de cálculos.
 
-![Aplicação cálculos](app.png)
+![Aplicação cálculos](app.PNG)
 
 Desenvolvida no âmbito da ação de formação **Inrodução ao Git e GitHub**  
 
