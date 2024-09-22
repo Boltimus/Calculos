@@ -9,7 +9,7 @@ namespace Calculos
     /// <summary>
     /// Implementa operações aritméticas.
     /// </summary>
-    internal class Aritmetica
+    internal static class Aritmetica
     {
         /// <summary>
         /// Tipo de conversão de temperatura.
@@ -39,7 +39,7 @@ namespace Calculos
             return x - y;
         }
 
-        public double converterTemperatura(ConversaoTemperatura conversao, double temperatura)
+        public static double converterTemperatura(ConversaoTemperatura conversao, double temperatura)
         {
             if(conversao == ConversaoTemperatura.CelsiusFahrenheit)
             {
