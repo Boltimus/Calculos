@@ -17,7 +17,13 @@ namespace Calculos
             double t1 = conversoes.converterTemperatura(conversoes.ConversaoTemperatura.CelsiusFahrenheit, 36);
             double t2 = conversoes.converterTemperatura(conversoes.ConversaoTemperatura.FahrenheitCelsius, 100);
             Console.WriteLine($"36º Celsius = {t1}º Fahrenheit");
-            Console.WriteLine($"100 Fahrenheit = {t2}º Celsius");
+            Console.WriteLine($"100º Fahrenheit = {t2}º Celsius");
+
+
+            double d1 = conversoes.converterDistancia(conversoes.ConversaoDistancia.MetrosMihas, 300);
+            double d2 = conversoes.converterDistancia(conversoes.ConversaoDistancia.MilhasMetros, 1000);
+            Console.WriteLine($"300 metros = {d1} milhas");
+            Console.WriteLine($"1000 milhas = {d2} metros");
 
 
             Console.ReadKey();
