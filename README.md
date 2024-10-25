@@ -3,7 +3,9 @@
 
 ![Aplicação cálculos](aplicação.PNG)
 
-Desenvolvida no âmbito da ação de formação **Inrodução ao Git e GitHub**  
+Desenvolvida no âmbito da ação de formação **_Introdução ao Git e GitHub_** 
+
+**_Itálico e negrito_** 
 
  ## Operações suportadas 
  Neste momento esta aplicação implementa as seguintes operações:
