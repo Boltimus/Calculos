@@ -24,4 +24,5 @@ Desenvolvida no âmbito da ação de formação **_Introdução ao Git e GitHub_
 - Git
 - GitHub Desktop
 - Plataforma GitHub
+- Daniel 
  
